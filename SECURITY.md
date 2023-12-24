@@ -2,6 +2,8 @@
 
 ## Supported Versions
 
+// TODO
+
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
 
@@ -13,6 +15,8 @@ currently being supported with security updates.
 | < 4.0   | :x:                |
 
 ## Reporting a Vulnerability
+
+// TODO
 
 Use this section to tell people how to report a vulnerability.
 
